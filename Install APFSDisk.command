@@ -8,7 +8,7 @@ cd "$PARENTDIR"
 APP_NAME="APFSDisk"
 SOURCE_PLIST="./Plist/com.chris1111.APFSDisk.plist"
 SOURCE_SCRIPT="./APFSDisk"
-./"Pics from Mojave"/seticon ./"Pics from Mojave"/Disk.icns ./APFSDisk/script
+./Pics/seticon ./Pics/Disk.icns ./APFSDisk/script
 echo "= = = = = = = = = = = = = = = = = = = = = = = = =  "
 echo "Install $APP_NAME"
 echo "= = = = = = = = = = = = = = = = = = = = = = = = =  "
