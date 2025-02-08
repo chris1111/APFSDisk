@@ -1,0 +1,15 @@
+#!/usr/bin/osascript
+delay 4
+tell application "System Events"
+	tell process "NotificationCenter"
+		set countwin to (count windows)
+		repeat with i from countwin to 1 by -1
+			tell window i
+				set temp to value of static text 1
+			end tell
+			if temp contains "Incompatible Disk" then
+				click button "Close" of window i
+			end if
+		end repeat
+	end tell
+end tell
