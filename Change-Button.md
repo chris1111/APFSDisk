@@ -4,7 +4,7 @@ With TextEdit or any other text editor, Open APFSDisk/[script](https://github.co
 
 Change the name `Close` between the quotes to the same name of your language
 
-<img src="Pics/Screenshot Close.png" alt="Github Project" style="width:100%;">
+<img src="Pics/Screenshot Close.png" alt="Github Project" style="width:70%;">
 
 Install infos: Run ⬇︎
 
