@@ -1,4 +1,7 @@
 # APFSDisk 
+
+[![pages-build-deployment](https://github.com/chris1111/APFSDisk/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/chris1111/APFSDisk/actions/workflows/pages/pages-build-deployment)
+
 ### NotificationCenter Incompatible Disk
 - For users with another macOS 14 or higher disk, Package to get ride of (Incompatible Disk) From Sierra to Mojave
 #### The pop-up will close after 4 seconds
